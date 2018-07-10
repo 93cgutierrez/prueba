@@ -1,0 +1,80 @@
+ECUADOR
+0914010459	Carreño Ibarra Conchita Emperatriz	
+0915189955	Leon Niño Sandra Silvana	
+1704787017	Moncayo Correa Maria Belen
+0908813512 CORREA DELGADO RAFAEL VICENTE
+1706746359	Toala Pinargote Manuel Wilfrido
+1713513834 => OSTAIZA AMAY MIGUEL ANGEL
+1002512240 => CIFUENTES JURADO VIVIANA ALEXANDRA
+0202016051 => PINOS NAJERA CRISTIAN ANDRES
+1310196702 => CHAVEZ ORTEGA ANGEL GONZALO (rz)
+1721913489 => NICHOLLS EASTMAN WINSTON
+1719841163 => GOMEZ ORTIZ DAVID (rz)
+
+CHILE
+12089176-6	Nicolas Pesce	
+11975067-9	Palomo Villagra Marcela Ingrid	
+15341569-2	Palomo Villagra Raul Francisco	
+11260124-4 =>CH CASTILLO ROJAS NELLY YANET
+12089676-8 => rutinador NO CH ACEVEDO GUZMAN GENEVIEVE
+
+COLOMBIA
+91490121	Alfredo Beleño Jimenez
+
+ARGENTINA
+36521543 Juan Ezequiel Goñi
+32148888 AR
+29846405 AR
+33717227 AR
+
+COSTA RICA
+304430920	Emmanuel Alinso Salazar Martinez	
+103690574	Sonia Marta Valenzuela Solis	
+304680187	Karla Alejandra Monge Lopez	
+
+
+private static final String PREMIUM_API_SERVER = "https://konivin.venko.co:46104";
+
+
+
+"<td>00304430920<\\/td><td>(.*?)<\\/td>";
+
+conline patron = Su búsqueda no obtuvo resultados
+https://www.cuitonline.com/search.php?q=33717227
+get
+
+        //content-type" content="text/html; charset=windows-1252
+        //?
+
+final String regex = "<span class=\"denominacion\">(.*?)<\\/span>";
+NOMBRE COMPLETO
+respuesta
+Connection	keep-alive
+Referer	https://www.cuitonline.com/
+Accept-Language	es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+Upgrade-Insecure-Requests	1
+Accept-Encoding	gzip, deflate, br
+User-Agent	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept	text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host	www.cuitonline.com
+
+gestor:
+Referer	https://www.cuitonline.com/
+Accept-Language	es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+Upgrade-Insecure-Requests	1
+Accept-Encoding	gzip, deflate, br
+User-Agent	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept	text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+validacion de DNI argentina poner no encontrado
+
+__VIEWSTATE	/wEPDwULLTE5NjQ1MjY5ODRkZMHGoXQlKZ5abjxVNzFqYPq6SLFV	true	true
+txtCAPTCHA	89SUySST	false	true
+txtCUIT		false	true
+txtDNI	36521543	false	true
+cmdBuscar	Buscar Persona	true	true
+
+dian:
+&Ntilde; Ñ
+ContentType: text/html;charset=ISO-8859-1
+DataEncoding: ISO-8859-1
